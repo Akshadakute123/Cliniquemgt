@@ -1,0 +1,16 @@
+[ {
+  "doct_Name" : "akshada",
+  "doct_Id" : 3,
+  "doct_Specialization" : "dentist",
+  "doct_Availability" : "am"
+}, {
+  "doct_Name" : "ak",
+  "doct_Id" : 4,
+  "doct_Specialization" : "as",
+  "doct_Availability" : "am"
+}, {
+  "doct_Name" : "hanumant",
+  "doct_Id" : 6,
+  "doct_Specialization" : "brain",
+  "doct_Availability" : "pm"
+} ]
